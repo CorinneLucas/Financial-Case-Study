@@ -1,4 +1,4 @@
-![image](https://github.com/CorinneLucas/Financial-Case-Study/assets/150062480/e1b0cc10-bf01-40b6-a32e-d7ede9eedb58)# Financial-Case-Study
+# Financial-Case-Study
 Financial case study for the fictitious organization Southern Water Corporation. 
 ## Overview
 - Southern Water Corp is a fictitious Israeli water desalination company that sells water to three different customer types: Residential, Public, and Private. 
